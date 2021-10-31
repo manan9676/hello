@@ -31,6 +31,7 @@ int main()
 	swapThree(a, b, c);
 
 	cout << "After swapping a = " << a << ", b = "
+	
 		<< b << ", c = " << c << endl;
 
 	
