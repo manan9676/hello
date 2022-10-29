@@ -34,4 +34,4 @@ int main()
 		<< b << ", c = " << c << endl;
 
 	return 0;
-}
+}. 
